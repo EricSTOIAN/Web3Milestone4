@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\.vs\\ECommerce\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.vs\\ECommerce\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\interfaces\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\services\\ordersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\controllers\\searchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|solutionrelative:ecommerce.api.search\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2397F8B3-341B-4834-A628-B85901DF836E}|ECommerce.Api.Search\\ECommerce.Api.Search.csproj|c:\\users\\estom\\onedrive - john abbott college\\semester 5\\web programming iii\\milestone_4_2024\\web3milestone4\\ecommerce\\ecommerce.api.search\\interfaces\\isearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 23,
           "Children": [
             {
               "$type": "Bookmark",
@@ -146,20 +154,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "applicationhost.config",
-              "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\.vs\\ECommerce\\config\\applicationhost.config",
-              "RelativeDocumentMoniker": ".vs\\ECommerce\\config\\applicationhost.config",
-              "ToolTip": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\.vs\\ECommerce\\config\\applicationhost.config",
-              "RelativeToolTip": ".vs\\ECommerce\\config\\applicationhost.config",
-              "ViewState": "AgIAADYAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-11-30T04:05:26.21Z",
+              "DocumentIndex": 2,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Services\\ProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:11:25.46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "ToolTip": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Interfaces\\IProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:09:04.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerce.Api.Search\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:08:29.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\OrderItem.cs",
@@ -167,11 +201,12 @@
               "RelativeToolTip": "ECommerce.Api.Search\\Models\\OrderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:26:23.595Z"
+              "WhenOpened": "2024-11-30T01:26:23.595Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\Order.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\Order.cs",
@@ -183,20 +218,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Startup.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Startup.cs",
               "ToolTip": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Startup.cs",
               "RelativeToolTip": "ECommerce.Api.Search\\Startup.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T01:02:51.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "OrdersService.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\OrdersService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\OrdersService.cs",
@@ -208,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ISearchService.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Interfaces\\ISearchService.cs",
@@ -220,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "SearchTerm.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Models\\SearchTerm.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Models\\SearchTerm.cs",
@@ -232,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "OrderProfile.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Orders\\Profiles\\OrderProfile.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Profiles\\OrderProfile.cs",
@@ -244,19 +279,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "SearchService.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Services\\SearchService.cs",
               "ToolTip": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Services\\SearchService.cs",
               "RelativeToolTip": "ECommerce.Api.Search\\Services\\SearchService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T01:01:49.605Z"
+              "WhenOpened": "2024-11-30T01:01:49.605Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IOrdersProvider.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Interfaces\\IOrdersProvider.cs",
@@ -268,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\appsettings.json",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\appsettings.json",
@@ -280,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SearchController.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Search\\Controllers\\SearchController.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Search\\Controllers\\SearchController.cs",
@@ -292,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "OrdersDbContext.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Orders\\Db\\OrdersDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Orders\\Db\\OrdersDbContext.cs",
@@ -304,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ProductsProvider.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Providers\\ProductsProvider.cs",
@@ -316,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "IProductsProvider.cs",
               "DocumentMoniker": "C:\\Users\\estom\\OneDrive - John Abbott College\\Semester 5\\Web Programming III\\Milestone_4_2024\\Web3Milestone4\\ECommerce\\ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
               "RelativeDocumentMoniker": "ECommerce.Api.Products\\Interfaces\\IProductsProvider.cs",
