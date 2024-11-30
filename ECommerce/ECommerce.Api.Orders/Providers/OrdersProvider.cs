@@ -100,17 +100,17 @@ namespace ECommerce.Api.Orders.Providers
         {
             try
             {
-                var order = await dbContext.Orders
+                var orders = await dbContext.Orders
                     .Where(o => o.CustomerId == customerId)
                     .Include(o => o.Items)
                     .ToListAsync();
-                if (order != null)
+                if (orders != null && orders.Any())
                 {
                     var result = mapper.Map<IEnumerable<Db.Order>,
-                        IEnumerable<Models.Order>>(order);
+                        IEnumerable<Models.Order>>(orders);
                     return (true, result, null);
                 }
-                return (false, null, "Not found");
+                return (false, null, "Not Found");
             }
             catch (Exception ex)
             {
